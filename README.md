@@ -10,3 +10,5 @@ Classification](https://arxiv.org/pdf/2301.03976.pdf)
 
 [IN DEFENSE OF PSEUDO-LABELING:
 AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2101.06329.pdf)
+
+[Semi-supervised learning for medical image classification using imbalanced training data](https://www.sciencedirect.com/science/article/pii/S016926072200013X)
